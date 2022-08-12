@@ -1,4 +1,4 @@
-### Hi!👋
+### Hi there 👋
 
 [![GitHub](https://img.shields.io/badge/Github-AirTed-lightgrey?logo=github&style=for-the-badge&label=GitHub&labelColor=495867&color=important&link=https://github.com/AirTed)](https://github.com/AirTed)
 
